@@ -1,0 +1,41 @@
+{
+    "header": {
+        "dashboard": "Dashboard",
+        "newContacts": "New Contact",
+        "titleApp": "Bank Contact Account",
+        "logOut": "Log Out",
+        "language": "Languages"
+    },
+    "login": {
+        "title": "Log In",
+        "txtEmail": "Email",
+        "txtPassword": "Password",
+        "button": "Log In",
+        "noAccount": "Don't have an account yet?",
+        "createAccount": "Create Account"
+    },
+    "dashBoard": {
+        "title": "My Contacts"
+    },
+    "newAccount": {
+        "title": "Create Account",
+        "txtName": "Full Name",
+        "txtEmail": "Email",
+        "txtPassword": "Password",
+        "txtConfirmPass": "Confirm Password",
+        "btn": "Create Account",
+        "creatAccount": "Already have an account?",
+        "logIn": "Log In"
+    },
+    "newContact": {
+        "title": "New Contact",
+        "txtBank": "Bank",
+        "txtName": "Full Name",
+        "txtAccount": "Account Type",
+        "txtNunAccount": "Account Number",
+        "txtPhoneNumber": "Phone Number",
+        "btn": "Crear Contacto", 
+        "labelBank": "Select a Bank", 
+        "labelAccount": "Select an Account Type"
+    }
+}

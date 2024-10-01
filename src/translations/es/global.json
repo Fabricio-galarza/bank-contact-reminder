@@ -1,0 +1,42 @@
+{
+    "header": {
+        "dashboard": "Panel",
+        "newContacts": "Nuevo Contacto",
+        "titleApp": "Cuenta de Contacto Bancaria",
+        "logOut": "Cerrar Sesión",
+        "language": "Idiomas"
+        
+    },
+    "login": {
+        "title": "Inicio de Sesión",
+        "txtEmail": "Correo Electrónico",
+        "txtPassword": "Contraseña",
+        "button": "Inicio de Sesión",
+        "noAccount": "Aun no tienes una cuenta?",
+        "createAccount": "Crear Cuenta"
+    },
+    "dashBoard": {
+        "title": "Mis Contactos"
+    },
+    "newAccount": {
+        "title": "Crear Cuenta",
+        "txtName": "Nombre Completo",
+        "txtEmail": "Correo Electrónico",
+        "txtPassword": "Contraseña",
+        "txtConfirmPass": "Confirmar Contraseña",
+        "btn": "Crear Cuenta",
+        "creatAccount": "Ya tienes una Cuenta?",
+        "logIn": "Inicio de Sesión"
+    },
+    "newContact": {
+        "title": "Nuevo Contacto",
+        "txtBank": "Banco",
+        "txtName": "Nombre Completo",
+        "txtAccount": "Tipo de Cuenta",
+        "txtNunAccount": "Numero de Cuenta",
+        "txtPhoneNumber": "Número de Télefono",
+        "btn": "Crear Contacto", 
+        "labelBank": "Seleccione un Banco", 
+        "labelAccount": "Seleccione un Tipo de Cuenta"
+    }
+}
