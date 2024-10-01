@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Carlos",
+        "bank": "BBVA",
+        "accountNum": "********5123"
+    },
+    {
+        "id": 2,
+        "name": "Carlos Andres",
+        "bank": "Bancolombia",
+        "accountNum": "********7894"
+    },
+    {
+        "id": 3,
+        "name": "Jorgito olarte",
+        "bank": "DAvivienda",
+        "accountNum": "********6352"
+    },
+    {
+        "id": 4,
+        "name": "Pepito Perez",
+        "bank": "Bancolombia",
+        "accountNum": "********1236"
+    },
+    {
+        "id": 5,
+        "name": "Juan Andres",
+        "bank": "BBVA",
+        "accountNum": "********5123"
+    },
+    {
+        "id": 6,
+        "name": "Carlos Andres",
+        "bank": "Bancolombia",
+        "accountNum": "********7894"
+    },
+    {
+        "id": 7,
+        "name": "Jorgito",
+        "bank": "DAvivienda",
+        "accountNum": "********6352"
+    },
+    {
+        "id": 8,
+        "name": "Pepito Perez",
+        "bank": "Bancolombia",
+        "accountNum": "********1236"
+    },
+    {
+        "id": 9,
+        "name": "Pepito Perez",
+        "bank": "Bancolombia",
+        "accountNum": "********1236"
+    }
+]
